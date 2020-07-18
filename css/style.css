@@ -110,4 +110,12 @@ body {
   color: #333;
   transition: 0.3s ease-in;
 }
+#rights{
+  margin-left: 530px;
+  margin-top: 300px;
+  color: white;
+  font-size: 14px;
+
+}
+
 
