@@ -20,6 +20,4 @@ If you want to access my website go to my git hub page and click on the  below (
 
 [link to my project]()
 
-### License
-
 Copyright (c) Balvine Mbari @2020
