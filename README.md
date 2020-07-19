@@ -18,6 +18,6 @@ If you want to access my website go to my git hub page and click on the  below (
 ## PROJECTS LINKS
 [Link to my github page. ](https://github.com/Balvine/Akan-Name-Generator)
 
-[link to my project]()
+[link to my project](https://balvine.github.io/Akan-Name-Generator/)
 
 Copyright (c) Balvine Mbari @2020
